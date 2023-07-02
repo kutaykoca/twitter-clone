@@ -155,7 +155,7 @@ function Modal() {
                           onClick={sendComment}
                           disabled={!comment.trim()}
                         >
-                          Reply
+                          Cevapla
                         </button>
                       </div>
                     </div>
