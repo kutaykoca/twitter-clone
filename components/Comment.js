@@ -35,13 +35,13 @@ function Comment({ comment }) {
             </p>
           </div>
           <div className="icon group flex-shrink-0">
-            <DotsHorizontalIcon className="h-5 text-[#6e767d] group-hover:text-[#1d9bf0]" />
+            <DotsHorizontalIcon className="h-5 text-[#6e767d] group-hover:text-[#55e545]" />
           </div>
         </div>
 
         <div className="text-[#6e767d] flex justify-between w-10/12">
           <div className="icon group">
-            <ChatIcon className="h-5 group-hover:text-[#1d9bf0]" />
+            <ChatIcon className="h-5 group-hover:text-[#55e545]" />
           </div>
 
           <div className="flex items-center space-x-1 group">
@@ -52,10 +52,10 @@ function Comment({ comment }) {
           </div>
 
           <div className="icon group">
-            <ShareIcon className="h-5 group-hover:text-[#1d9bf0]" />
+            <ShareIcon className="h-5 group-hover:text-[#55e545]" />
           </div>
           <div className="icon group">
-            <ChartBarIcon className="h-5 group-hover:text-[#1d9bf0]" />
+            <ChartBarIcon className="h-5 group-hover:text-[#55e545]" />
           </div>
         </div>
       </div>
