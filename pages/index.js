@@ -17,7 +17,7 @@ export default function Home({ trendingResults, followResults, providers }) {
   return (
     <div className="">
       <Head>
-        <title>Ev / Twitter</title>
+        <title>Ev / GreenPark</title>
         <link rel="icon" href="/icon.ico" />
       </Head>
 
